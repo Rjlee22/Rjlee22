@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 😄 Hello! I'm Ryan Lee! 
+
 <i>Currently: </i> Junior at the Univeristy of Chicago
+
 <i>Previously: </i> Undergraduate Research Fellow with the NSF/ Risk Control Data Intern with IMA Financial
 <h2> 🌱 I'm Currently Learning</h2>
 
@@ -49,4 +51,4 @@ These projects  are a way for me to learn,challenge and apply some of the concep
 
 <a href="mailto:Rlee03@uchicago.edu">![Rlee03@uchicago.edu](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
-<a href="<https://www.linkedin.com/in/ryan-lee-942056274/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="<https://www.linkedin.com/in/ryan-lee-942056274/>">![https://www.linkedin.com/in/ryan-lee-942056274/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
