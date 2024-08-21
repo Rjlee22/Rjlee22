@@ -40,8 +40,8 @@ These projects  are a way for me to learn,challenge and apply some of the concep
 
 <h2> 🔭 What I am currently working on </h2>
 
-- project 1
-- project 2 
+- Heart Attack Analysis 🫀
+- UFC fight analytics and prediction ⚔️
 
 <h2> 🔭 What I have worked on </h2>
 
